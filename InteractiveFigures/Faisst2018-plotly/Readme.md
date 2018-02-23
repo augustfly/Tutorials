@@ -16,11 +16,11 @@ The exporting to HTML/JS files was done using the [htmlwidgets](http://www.htmlw
 
 Contents of Tutorial
 
-example.R -- an example R script, simplified, showing the most crucial steps.
+    example.R -- an example R script, simplified, showing the most crucial steps.
 
-data/  
-    Data_Figure1_forApJ.csv
-    ReadMe
+    data/  
+        Data_Figure1_forApJ.csv
+        ReadMe
 
-example/
-    <example output data files from the published figure>
+    example/
+        <example output data files from the published figure>
